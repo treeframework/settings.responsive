@@ -4,7 +4,15 @@ Initial breakpoint aliases and conditions.
 
 Install using Bower:
 
-    $ bower install --save tree-responsive-settings
+```sh
+$ bower install tree-responsive-settings --save
+```
+
+Install using npm:
+
+```sh
+$ npm install tree-responsive-settings --save
+```
 
 ## Credits
 
