@@ -1,7 +1,7 @@
 {
   "name": "tree-responsive-settings",
   "description": "Responsive settings.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Ilia Kolev <info@iliakolev.com>",
   "bugs": {
     "url": "https://github.com/treeframework/settings.responsive/issues"
