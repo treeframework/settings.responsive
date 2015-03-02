@@ -15,7 +15,7 @@ $ bower install tree-responsive-settings --save
 Once installed, `@import` into your project in its Settings layer:
 
 ```scss
-@import 'bower_components/tree-responsive-settings/settings.responsive";
+@import "bower_components/tree-responsive-settings/settings.responsive";
 ```
 
 ### Install using npm:
