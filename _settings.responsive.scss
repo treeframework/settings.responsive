@@ -1,8 +1,14 @@
-// *************************************
+// =============================================================================
 //
-//   #SETTINGS-RESPONSIVE
+// Name:          Settings-responsive
 //
-// *************************************
+// Description:   Initial breakpoint aliases and conditions.
+//
+// =============================================================================
+
+
+
+
 
 // Hold our breakpoint aliases and conditions in a list.
 //
@@ -24,4 +30,5 @@ $breakpoints: (
 
 // If we have included this file, set a variable to tell the rest of the
 // framework that we have some responsive settings.
+
 $tree-responsive-settings: true;
